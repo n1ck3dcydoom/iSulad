@@ -1,3 +1,5 @@
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/7992/badge)](https://www.bestpractices.dev/projects/7992)
+
 [中文版入口](README_zh.md)
 
 <img src="./logo/iSulad-logo.svg" alt="iSulad" style="max-width: 50%;" />
